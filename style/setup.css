@@ -1,0 +1,78 @@
+/* setup container styles */
+.bubble-container {
+	background: url('https://media.tenor.com/K5uTlpe3Ku8AAAAC/travel-airplane.gif') no-repeat center center fixed;
+	background-size: cover;
+	height: 100vh;
+	
+	width: 100%;
+	/* margin: 0 auto; */
+	
+	overflow: hidden;
+	position: absolute;
+}
+.bubble-wrap {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: -17px;
+	padding: 10px calc(17px + 10px) 30px 10px;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+	-webkit-transform: translate3d(0, 0, 0);
+}
+/* optional page styles */
+h1 {
+	text-align: center;
+	font-weight: 300;
+	font-size: 4em;
+	margin: .5em auto 0.15em;
+}
+body {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	margin: 0;
+}
+
+
+/* Add this to your existing CSS or create a new CSS file */
+
+/* Add this to your existing CSS or create a new CSS file */
+.menu-icon {
+	color: rgb(251, 249, 249);
+	font-size: 40px;
+	text-decoration: none;
+	margin: 10px;
+	position: absolute;
+	top: 0;
+	right: 10px;
+	cursor: pointer;
+	z-index: 1;
+  }
+  
+  .menu-content {
+	display: block;
+	justify-content: space-around;
+	align-items: center;
+	background: linear-gradient(90deg, #4CAF50, #2196F3);
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .menu-content a {
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	border-radius: 25px;
+	transition: background-color 0.3s, border-color 0.3s, transform 0.2s;
+  }
+  
+  .menu-content a:hover {
+	background-color: #4CAF50;
+	border-color: white;
+	transform: scale(1.05);
+  }
+  
+
+  

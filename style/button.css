@@ -1,0 +1,182 @@
+/* #chat{
+  position: absolute;
+  top: 15vh;
+  left: 2vh;
+  border: solid;
+  border-radius: 20px 20px 0px 0px;
+  height: 60vh;
+}
+#mn-btn{
+  position: absolute;
+  left: 68%;
+  width: 30%;
+  top: 90vh;
+  border-radius: 20px 20px 0px 0px;
+  background: white;
+  border: solid;
+  font-size: 25px;
+  font-family: cursive;
+  padding: 1vh;
+} */
+/* #chat {
+  position: absolute;
+  top: 10%;
+  left: 55;
+  border: solid;
+  border-radius: 20px;
+  height: 65vh;
+  width: 100%;
+  transition: width 0.3s; /* Add a transition for smoother width changes */
+/* } */
+/*  *
+#mn-btn {
+  position: absolute;
+  left: 23%;
+  width: 55%;
+  top: 80%;
+  border-radius: 20px;
+  background: rgb(224, 231, 232);
+  border: solid;
+  font-size: 25px;
+  font-family: cursive;
+  padding: 1vh;
+  transition: width 0.3s; /* Add a transition for smoother width changes */
+/* } */
+
+/* #mn-btn:hover { */
+  /* transform: scale(1.05); /* Apply scale effect on hover */
+/* } */
+/* footer{
+  position: absolute;
+  top: 90vh;
+  font-size: 3vh;
+  color: black;
+}
+header{
+  text-align: center;
+  background: black;
+  font-family: cursive;
+  font-size: 5vh;
+  color: white;
+  padding: 1h;
+  height: 7vh;
+  margin: 0vh; */
+/* } */
+
+/* #chat{
+  position: absolute;
+  top: 15vh;
+  left: 2vh;
+  border: solid;
+  border-radius: 20px 20px 20px 20px;
+  height: 65vh;
+}
+#mn-btn{
+  position: absolute;
+  left: 23%;
+  width: 55%;
+  top: 80%;
+  border-radius: 20px 20px 20px 20px;
+  background: rgb(224, 231, 232);
+  border: solid;
+  font-size: 25px;
+  font-family: cursive;
+  padding: 1vh;
+
+  
+  
+
+  /* Base styles for the element */
+
+
+/* } */
+/* footer{
+  position: absolute;
+  top: 90vh;
+  font-size: 3vh;
+  color: rgb(200, 219, 224);
+}
+header{
+  text-align: center;
+  background: rgb(243, 247, 249);
+  font-family:  Georgia, Times, 'Times New Roman', serif ;
+  font-size: 6vh;
+  color: rgb(1, 6, 8);
+  padding: 3h;
+  height: 7vh;
+  margin: 0vh;
+} */ 
+
+/* #chat {
+  position: absolute;
+  top: 15vh;
+  left: 2vh;
+  border: solid;
+  border-radius: 20px;
+  height: 65vh;
+  width: 92.8%;
+  transition: width 0.3s; /* Add a transition for smoother width changes */
+/* } */
+
+/* #mn-btn {
+  position: absolute;
+  left: 23%;
+  width: 56%;
+  top: 85%;
+  border-radius: 20px;
+  background: rgb(224, 231, 232);
+  border: solid;
+  font-size: 25px;
+  font-family: cursive;
+  padding: 1vh;
+  transition: width 0.3s;  /* Add a transition for smoother width changes */
+/* } */ 
+
+#chat {
+  position: absolute;
+  top: 15vh; /* Adjust the top position */
+  left: 20%;
+  border: solid;
+  border-radius: 20px;
+  height: 65vh;
+  width: 92.8%;
+  transition: width 0.3s, transform 0.3s;
+}
+
+#mn-btn {
+  position: absolute;
+  top: 85vh; /* Adjust the top position */
+  left: 23%;
+  width: 56%;
+  border-radius: 20px;
+  background: rgb(224, 231, 232);
+  border: solid;
+  font-size: 25px;
+  font-family: cursive;
+  padding: 1vh;
+  transition: width 0.3s;
+}
+
+#mn-btn:hover {
+  transform: scale(1.15);
+}
+
+footer {
+  position: absolute;
+  top: 90vh;
+  font-size: 3vh;
+  color: rgb(219, 224, 200);
+}
+
+header {
+  text-align: center;
+  background: url('https://bestanimations.com/media/transport/1304945656travel-road-highway-animated-gif-2.gif') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 6vh;
+  color: rgb(5, 6, 6);
+  padding: 3vh;
+  height: 100vh;
+  width:100%;
+  margin: 0vh;
+}
